@@ -4,7 +4,7 @@ This is a black box repository to train Git skills and experiment with the setti
 
 Do whatever you want to do.
 
-:bangbang: But don't delete the README.md
+:bangbang: But don't delete this README.md file
 
 ## Git
 * Fetch, Push
