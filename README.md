@@ -1,5 +1,7 @@
 # Train your skills in Git and GitHub using this repo
 
+## **⚠️ THIS PROJECT IS NOW UNMAINTAINED AND IN READ-ONLY MODE ⚠️**
+
 This is a black box repository to train Git skills and experiment with the settings in GitHub.
 
 Do whatever you want to do.
